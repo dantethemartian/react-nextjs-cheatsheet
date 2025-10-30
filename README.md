@@ -1,5 +1,4 @@
-# react-nextjs-cheatsheet
-React/Next.js Cheatsheet
+# React/Nextjs Cheatsheet
 
 # References
 https://nextjs.org/learn
